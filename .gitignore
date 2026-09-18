@@ -1,6 +1,8 @@
+# --- SonaAstra Security Seal ---
 *.pem
 *.key
 *.priv
-*.db
-*.sqlite
+*.secret
 sonastra_granth.db
+*.sqlite
+*.sqlite3
